@@ -1,0 +1,1014 @@
+[
+  {
+    "id": 1,
+    "category_id": 14,
+    "name": "Mexica Usulü Tavuk",
+    "price": 230.0,
+    "image_path": "/images/products/mexican-style-chicken.jpg"
+  },
+  {
+    "id": 2,
+    "category_id": 14,
+    "name": "Köri Soslu Tavuk",
+    "price": 230.0,
+    "image_path": "/images/products/curry-sauce-chicken.jpg"
+  },
+  {
+    "id": 3,
+    "category_id": 14,
+    "name": "Soya Soslu Tavuk",
+    "price": 230.0,
+    "image_path": "/images/products/soy-sauce-chicken.jpg"
+  },
+  {
+    "id": 4,
+    "category_id": 14,
+    "name": "Tavuk Wrap",
+    "price": 200.0,
+    "image_path": "/images/products/chicken-wrap.jpg"
+  },
+  {
+    "id": 5,
+    "category_id": 14,
+    "name": "Kombo Wrap",
+    "price": 200.0,
+    "image_path": "/images/products/combo-wrap.jpg"
+  },
+  {
+    "id": 6,
+    "category_id": 14,
+    "name": "Penne Alfredo",
+    "price": 160.0,
+    "image_path": "/images/products/penne-alfredo.jpg"
+  },
+  {
+    "id": 7,
+    "category_id": 14,
+    "name": "Fettucini Alfredo",
+    "price": 160.0,
+    "image_path": "/images/products/fettuccine-alfredo.jpg"
+  },
+  {
+    "id": 8,
+    "category_id": 14,
+    "name": "Penne Arabiatta",
+    "price": 190.0,
+    "image_path": "/images/products/penne-arrabbiata.jpg"
+  },
+  {
+    "id": 9,
+    "category_id": 14,
+    "name": "Spagetti Bolonez",
+    "price": 160.0,
+    "image_path": "/images/products/spaghetti-bolognese.jpg"
+  },
+  {
+    "id": 10,
+    "category_id": 14,
+    "name": "Mantı",
+    "price": 170.0,
+    "image_path": "/images/products/manti.jpg"
+  },
+  {
+    "id": 11,
+    "category_id": 14,
+    "name": "Et Wrap",
+    "price": 300.0,
+    "image_path": "/images/products/beef-wrap.jpg"
+  },
+  {
+    "id": 12,
+    "category_id": 14,
+    "name": "Köfte Porsiyon",
+    "price": 350.0,
+    "image_path": "/images/products/kofte-portion.jpg"
+  },
+  {
+    "id": 13,
+    "category_id": 14,
+    "name": "Mercimek Çorbası",
+    "price": 100.0,
+    "image_path": "/images/products/lentil-soup.jpg"
+  },
+  {
+    "id": 14,
+    "category_id": 14,
+    "name": "Et Bonfile",
+    "price": 650.0,
+    "image_path": "/images/products/beef-tenderloin.jpg"
+  },
+  {
+    "id": 15,
+    "category_id": 14,
+    "name": "Kuzu Lokumu",
+    "price": 650.0,
+    "image_path": "/images/products/lamb-lokum.jpg"
+  },
+  {
+    "id": 16,
+    "category_id": 14,
+    "name": "Et Antrikot",
+    "price": 650.0,
+    "image_path": "/images/products/beef-ribeye.jpg"
+  },
+  {
+    "id": 17,
+    "category_id": 14,
+    "name": "Kuzu Pirzola",
+    "price": 650.0,
+    "image_path": "/images/products/lamb-chops.jpg"
+  },
+  {
+    "id": 18,
+    "category_id": 14,
+    "name": "Karışık Izgara",
+    "price": 950.0,
+    "image_path": "/images/products/mixed-grill.jpg"
+  },
+
+  {
+    "id": 19,
+    "category_id": 15,
+    "name": "Sezar Salata Tavuklu",
+    "price": 195.0,
+    "image_path": "/images/products/caesar-salad-chicken.jpg"
+  },
+  {
+    "id": 20,
+    "category_id": 15,
+    "name": "Çoban Salata",
+    "price": 80.0,
+    "image_path": "/images/products/shepherd-salad.jpg"
+  },
+  {
+    "id": 21,
+    "category_id": 15,
+    "name": "Mevsim Salata",
+    "price": 80.0,
+    "image_path": "/images/products/seasonal-salad.jpg"
+  },
+  {
+    "id": 22,
+    "category_id": 15,
+    "name": "Ton Balıklı Salata",
+    "price": 110.0,
+    "image_path": "/images/products/tuna-salad.jpg"
+  },
+  {
+    "id": 23,
+    "category_id": 1,
+    "name": "Hamburger",
+    "price": 190.0,
+    "image_path": "/images/products/hamburger.jpg"
+  },
+  {
+    "id": 24,
+    "category_id": 1,
+    "name": "Chicken Hamburger",
+    "price": 170.0,
+    "image_path": "/images/products/chicken-hamburger.jpg"
+  },
+  {
+    "id": 25,
+    "category_id": 1,
+    "name": "Double Burger",
+    "price": 310.0,
+    "image_path": "/images/products/hamburger.jpg"
+  },
+
+  {
+    "id": 26,
+    "category_id": 2,
+    "name": "Serpme Kahvaltı 2 Kişilik",
+    "price": 550.0,
+    "image_path": "/images/products/serpme-kahvalti-2-kisilik.jpg"
+  },
+  {
+    "id": 27,
+    "category_id": 2,
+    "name": "Menemen",
+    "price": 160.0,
+    "image_path": "/images/products/menemen.jpg"
+  },
+  {
+    "id": 28,
+    "category_id": 2,
+    "name": "Kahvaltı Tabağı",
+    "price": 220.0,
+    "image_path": "/images/products/kahvalti-tabagi.jpg"
+  },
+  {
+    "id": 29,
+    "category_id": 2,
+    "name": "Karışık Menemen",
+    "price": 200.0,
+    "image_path": "/images/products/karisik-menemen.jpg"
+  },
+  {
+    "id": 30,
+    "category_id": 2,
+    "name": "Kavurmalı Menemen",
+    "price": 200.0,
+    "image_path": "/images/products/kavurmali-menemen.jpg"
+  },
+  {
+    "id": 31,
+    "category_id": 2,
+    "name": "Sucuklu Yumurta",
+    "price": 100.0,
+    "image_path": "/images/products/sucuklu-yumurta.jpg"
+  },
+  {
+    "id": 32,
+    "category_id": 2,
+    "name": "Kavurmalı Yumurta",
+    "price": 160.0,
+    "image_path": "/images/products/kavurmali-yumurta.jpg"
+  },
+  {
+    "id": 33,
+    "category_id": 2,
+    "name": "Sahanda Yumurta",
+    "price": 60.0,
+    "image_path": "/images/products/sahanda-yumurta.jpg"
+  },
+  {
+    "id": 34,
+    "category_id": 2,
+    "name": "Omlet",
+    "price": 95.0,
+    "image_path": "/images/products/omlet.jpg"
+  },
+  {
+    "id": 35,
+    "category_id": 2,
+    "name": "Sebzeli Omlet",
+    "price": 130.0,
+    "image_path": "/images/products/sebzeli-omlet.jpg"
+  },
+  {
+    "id": 36,
+    "category_id": 2,
+    "name": "Kombo Tabağı",
+    "price": 150.0,
+    "image_path": "/images/products/kombo-tabagi.jpg"
+  },
+  {
+    "id": 37,
+    "category_id": 2,
+    "name": "Parmak Patates",
+    "price": 95.0,
+    "image_path": "/images/products/parmak-patates.jpg"
+  },
+  {
+    "id": 38,
+    "category_id": 2,
+    "name": "Elma Dilim Patates",
+    "price": 95.0,
+    "image_path": "/images/products/elma-dilim-patates.jpg"
+  },
+  {
+    "id": 39,
+    "category_id": 2,
+    "name": "Sigara Böreği",
+    "price": 110.0,
+    "image_path": "/images/products/sigara-boregi.jpg"
+  },
+  {
+    "id": 40,
+    "category_id": 2,
+    "name": "Kavurmalı Kaşar Gözleme",
+    "price": 190.0,
+    "image_path": "/images/products/kavurmali-kasar-gozleme.jpg"
+  },
+  {
+    "id": 41,
+    "category_id": 2,
+    "name": "Patates Gözleme",
+    "price": 110.0,
+    "image_path": "/images/products/patates-gozleme.jpg"
+  },
+  {
+    "id": 42,
+    "category_id": 2,
+    "name": "Kaşarlı Gözleme",
+    "price": 110.0,
+    "image_path": "/images/products/kasar-gozleme.jpg"
+  },
+  {
+    "id": 43,
+    "category_id": 2,
+    "name": "Sucuk Kaşar Gözleme",
+    "price": 110.0,
+    "image_path": "/images/products/kavurmali-kasar-gozleme.jpg"
+  },
+  {
+    "id": 44,
+    "category_id": 2,
+    "name": "Karışık Tost",
+    "price": 110.0,
+    "image_path": "/images/products/karisik-tost.jpg"
+  },
+  {
+    "id": 45,
+    "category_id": 2,
+    "name": "Kaşarlı Tost",
+    "price": 110.0,
+    "image_path": "/images/products/kasar-tost.jpg"
+  },
+  {
+    "id": 46,
+    "category_id": 2,
+    "name": "Sucuklu Tost",
+    "price": 105.0,
+    "image_path": "/images/products/sucuklu-tost.jpg"
+  },
+  {
+    "id": 47,
+    "category_id": 2,
+    "name": "Kavurmalı Tost",
+    "price": 210.0,
+    "image_path": "/images/products/kavurmali-tost.jpg"
+  },
+
+  {
+    "id": 48,
+    "category_id": 3,
+    "name": "Karışık Pizza",
+    "price": 210.0,
+    "image_path": "/images/products/karisik-pizza.jpg"
+  },
+  {
+    "id": 49,
+    "category_id": 3,
+    "name": "Margarita Pizza",
+    "price": 180.0,
+    "image_path": "/images/products/margarita-pizza.jpg"
+  },
+  {
+    "id": 50,
+    "category_id": 3,
+    "name": "Sebzeli Pizza",
+    "price": 190.0,
+    "image_path": "/images/products/sebzeli-pizza.jpg"
+  },
+  {
+    "id": 51,
+    "category_id": 3,
+    "name": "Sucuklu Pizza",
+    "price": 200.0,
+    "image_path": "/images/products/sucuklu-pizza.jpg"
+  },
+  {
+    "id": 52,
+    "category_id": 4,
+    "name": "Sütlü Filtre Kahve",
+    "price": 105.0,
+    "image_path": "/images/products/sutlu-filtre-kahve.jpg"
+  },
+  {
+    "id": 53,
+    "category_id": 4,
+    "name": "Filtre Kahve",
+    "price": 90.0,
+    "image_path": "/images/products/filtre-kahve.jpg"
+  },
+  {
+    "id": 54,
+    "category_id": 4,
+    "name": "Latte",
+    "price": 100.0,
+    "image_path": "/images/products/latte.jpg"
+  },
+  {
+    "id": 55,
+    "category_id": 4,
+    "name": "Americano",
+    "price": 100.0,
+    "image_path": "/images/products/americano.jpg"
+  },
+  {
+    "id": 56,
+    "category_id": 4,
+    "name": "Karamel Machiato",
+    "price": 100.0,
+    "image_path": "/images/products/karamel-machiato.jpg"
+  },
+  {
+    "id": 57,
+    "category_id": 4,
+    "name": "Espresso",
+    "price": 85.0,
+    "image_path": "/images/products/espresso.jpg"
+  },
+  {
+    "id": 58,
+    "category_id": 4,
+    "name": "Ice Americano",
+    "price": 105.0,
+    "image_path": "/images/products/ice-americano.jpg"
+  },
+  {
+    "id": 59,
+    "category_id": 4,
+    "name": "Ice Mocha",
+    "price": 115.0,
+    "image_path": "/images/products/ice-mocha.jpg"
+  },
+  {
+    "id": 60,
+    "category_id": 4,
+    "name": "Ice Latte",
+    "price": 120.0,
+    "image_path": "/images/products/ice-latte.jpg"
+  },
+  {
+    "id": 61,
+    "category_id": 4,
+    "name": "Mocha",
+    "price": 105.0,
+    "image_path": "/images/products/mocha.jpg"
+  },
+  {
+    "id": 62,
+    "category_id": 4,
+    "name": "Sade Wescafe",
+    "price": 80.0,
+    "image_path": "/images/products/sade-wescafe.jpg"
+  },
+  {
+    "id": 63,
+    "category_id": 4,
+    "name": "Ice Choklate Mocha",
+    "price": 115.0,
+    "image_path": "/images/products/ice-choklate-mocha.jpg"
+  },
+  {
+    "id": 64,
+    "category_id": 4,
+    "name": "Ice Karamel",
+    "price": 115.0,
+    "image_path": "/images/products/ice-karamel.jpg"
+  },
+  {
+    "id": 65,
+    "category_id": 4,
+    "name": "Sütlü Wescafe",
+    "price": 95.0,
+    "image_path": "/images/products/sade-wescafe.jpg"
+  },
+  {
+    "id": 66,
+    "category_id": 4,
+    "name": "Cappuccino",
+    "price": 100.0,
+    "image_path": "/images/products/cappuccino.jpg"
+  },
+  {
+    "id": 67,
+    "category_id": 4,
+    "name": "Türk Kahvesi",
+    "price": 75.0,
+    "image_path": "/images/products/turk-kahvesi.jpg"
+  },
+  {
+    "id": 68,
+    "category_id": 4,
+    "name": "Menengiç Kahvesi",
+    "price": 75.0,
+    "image_path": "/images/products/menegic-kahvesi.jpg"
+  },
+  {
+    "id": 69,
+    "category_id": 4,
+    "name": "Dibek Kahvesi",
+    "price": 75.0,
+    "image_path": "/images/products/dibek-kahvesi.jpg"
+  },
+
+  {
+    "id": 70,
+    "category_id": 5,
+    "name": "Stawberry Milkshake",
+    "price": 110.0,
+    "image_path": "/images/products/stawberry-milkshake.jpg"
+  },
+  {
+    "id": 71,
+    "category_id": 5,
+    "name": "Banana Milkshake",
+    "price": 110.0,
+    "image_path": "/images/products/banana-milkshake.jpg"
+  },
+  {
+    "id": 72,
+    "category_id": 5,
+    "name": "White Milkshake",
+    "price": 110.0,
+    "image_path": "/images/products/white-milkshake.jpg"
+  },
+  {
+    "id": 73,
+    "category_id": 5,
+    "name": "Choclate Milkshake",
+    "price": 110.0,
+    "image_path": "/images/products/choclate-milkshake.jpg"
+  },
+  {
+    "id": 74,
+    "category_id": 5,
+    "name": "Karamel Milkshake",
+    "price": 110.0,
+    "image_path": "/images/products/karamel-milkshake.jpg"
+  },
+  {
+    "id": 75,
+    "category_id": 6,
+    "name": "Çilekli Smoothie",
+    "price": 110.0,
+    "image_path": "/images/products/cilekli-smoothie.jpg"
+  },
+  {
+    "id": 76,
+    "category_id": 6,
+    "name": "Muzlu Smoothie",
+    "price": 110.0,
+    "image_path": "/images/products/muzlu-smoothie.jpg"
+  },
+  {
+    "id": 77,
+    "category_id": 6,
+    "name": "Böğürtlenli Smoothie",
+    "price": 110.0,
+    "image_path": "/images/products/boğurtlenli-smoothie.jpg"
+  },
+  {
+    "id": 78,
+    "category_id": 6,
+    "name": "Kavunlu Smoothie",
+    "price": 110.0,
+    "image_path": "/images/products/kavunlu-smoothie.jpg"
+  },
+  {
+    "id": 79,
+    "category_id": 7,
+    "name": "Water Melon Frozen",
+    "price": 110.0,
+    "image_path": "/images/products/water-melon-frozen.jpg"
+  },
+  {
+    "id": 80,
+    "category_id": 7,
+    "name": "Melon Frozen",
+    "price": 110.0,
+    "image_path": "/images/products/melon-frozen.jpg"
+  },
+  {
+    "id": 81,
+    "category_id": 7,
+    "name": "Strawberry Frozen",
+    "price": 110.0,
+    "image_path": "/images/products/strawberry-frozen.jpg"
+  },
+  {
+    "id": 82,
+    "category_id": 7,
+    "name": "Peach Frozen",
+    "price": 110.0,
+    "image_path": "/images/products/peach-frozen.jpg"
+  },
+  {
+    "id": 83,
+    "category_id": 8,
+    "name": "Classic Mojito",
+    "price": 110.0,
+    "image_path": "/images/products/classic-mojito.jpg"
+  },
+  {
+    "id": 84,
+    "category_id": 8,
+    "name": "Mango Mojito",
+    "price": 110.0,
+    "image_path": "/images/products/mango-mojito.jpg"
+  },
+  {
+    "id": 85,
+    "category_id": 8,
+    "name": "Blackberry Mojito",
+    "price": 110.0,
+    "image_path": "/images/products/blackberry-mojito.jpg"
+  },
+  {
+    "id": 86,
+    "category_id": 8,
+    "name": "Strawberry Mojito",
+    "price": 110.0,
+    "image_path": "/images/products/strawberry-mojito.jpg"
+  },
+  {
+    "id": 87,
+    "category_id": 8,
+    "name": "Long Island",
+    "price": 110.0,
+    "image_path": "/images/products/long-island.jpg"
+  },
+  {
+    "id": 88,
+    "category_id": 9,
+    "name": "Çerez Tabağı",
+    "price": 150.0,
+    "image_path": "/images/products/cerez-tabagi.jpg"
+  },
+  {
+    "id": 89,
+    "category_id": 9,
+    "name": "Meyve Tabağı",
+    "price": 170.0,
+    "image_path": "/images/products/meyve-tabagi.jpg"
+  },
+  {
+    "id": 90,
+    "category_id": 9,
+    "name": "Föndü",
+    "price": 220.0,
+    "image_path": "/images/products/fondu.jpg"
+  },
+  {
+    "id": 91,
+    "category_id": 9,
+    "name": "Waffle",
+    "price": 200.0,
+    "image_path": "/images/products/waffle.jpg"
+  },
+  {
+    "id": 92,
+    "category_id": 9,
+    "name": "Devil's",
+    "price": 180.0,
+    "image_path": "/images/products/devils.jpg"
+  },
+  {
+    "id": 93,
+    "category_id": 9,
+    "name": "Karaorman Pasta",
+    "price": 180.0,
+    "image_path": "/images/products/karaorman-pasta.jpg"
+  },
+  {
+    "id": 94,
+    "category_id": 9,
+    "name": "Mozaik Pasta",
+    "price": 180.0,
+    "image_path": "/images/products/mozaik-pasta.jpg"
+  },
+  {
+    "id": 95,
+    "category_id": 9,
+    "name": "Suffle",
+    "price": 220.0,
+    "image_path": "/images/products/suffle.jpg"
+  },
+  {
+    "id": 96,
+    "category_id": 9,
+    "name": "Beyaz Çikolatalı Pasta",
+    "price": 180.0,
+    "image_path": "/images/products/beyaz-cikolatali-pasta.jpg"
+  },
+  {
+    "id": 97,
+    "category_id": 10,
+    "name": "Mix Nargile",
+    "price": 800.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 98,
+    "category_id": 10,
+    "name": "Laddy Killer (Adalya)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 99,
+    "category_id": 10,
+    "name": "Dejavu (Adalya)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 100,
+    "category_id": 10,
+    "name": "Portakal (Adalya)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 101,
+    "category_id": 10,
+    "name": "Pişmiş Şeftali (Adalya)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 102,
+    "category_id": 10,
+    "name": "Çift Elma (Al Faker)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 103,
+    "category_id": 10,
+    "name": "Tek Elma (Al Faker)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 104,
+    "category_id": 10,
+    "name": "Cappucino (Al Faker)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 105,
+    "category_id": 10,
+    "name": "Damla Sakız (Al Faker)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 106,
+    "category_id": 10,
+    "name": "Üzüm (Al Fakher)",
+    "price": 220.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 107,
+    "category_id": 10,
+    "name": "Üzüm Nane (Al Fakher)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 108,
+    "category_id": 10,
+    "name": "Yaban Üzüm (Al Faker)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 109,
+    "category_id": 10,
+    "name": "Yaban Mersini (Al Faker)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 110,
+    "category_id": 10,
+    "name": "Şeftali (Nakla)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 111,
+    "category_id": 10,
+    "name": "Cappucino (Nakla)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 112,
+    "category_id": 10,
+    "name": "Elma (Nakla)",
+    "price": 250.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 113,
+    "category_id": 10,
+    "name": "Nargile Kafa Değişimi",
+    "price": 150.0,
+    "image_path": "/images/products/nargile.jpg"
+  },
+  {
+    "id": 114,
+    "category_id": 11,
+    "name": "Okaynus Kokteyl",
+    "price": 150.0,
+    "image_path": "/images/products/kokteyl1.jpg"
+  },
+  {
+    "id": 115,
+    "category_id": 11,
+    "name": "Karadut Kokteyl",
+    "price": 150.0,
+    "image_path": "/images/products/kokteyl2.jpg"
+  },
+  {
+    "id": 116,
+    "category_id": 11,
+    "name": "Sarı Vadi Kokteyl",
+    "price": 150.0,
+    "image_path": "/images/products/kokteyl3.jpg"
+  },
+  {
+    "id": 117,
+    "category_id": 11,
+    "name": "Manjaki Kokteyl",
+    "price": 150.0,
+    "image_path": "/images/products/kokteyl4.jpg"
+  },
+  {
+    "id": 118,
+    "category_id": 11,
+    "name": "Rubba Special Kokteyl",
+    "price": 150.0,
+    "image_path": "/images/products/kokteyl5.jpg"
+  },
+  {
+    "id": 119,
+    "category_id": 12,
+    "name": "Limonata",
+    "price": 90.0,
+    "image_path": "/images/products/limonata.jpg"
+  },
+  {
+    "id": 120,
+    "category_id": 12,
+    "name": "Çilekli Limonata",
+    "price": 95.0,
+    "image_path": "/images/products/cilekli-limonata.jpg"
+  },
+  {
+    "id": 121,
+    "category_id": 12,
+    "name": "Naneli Limonata",
+    "price": 95.0,
+    "image_path": "/images/products/naneli-limonata.jpg"
+  },
+  {
+    "id": 122,
+    "category_id": 12,
+    "name": "RedBull",
+    "price": 125.0,
+    "image_path": "/images/products/redbull.jpg"
+  },
+  {
+    "id": 123,
+    "category_id": 12,
+    "name": "Meyveli RedBull",
+    "price": 125.0,
+    "image_path": "/images/products/redbull.jpg"
+  },
+  {
+    "id": 124,
+    "category_id": 12,
+    "name": "Fındıklı RedBull",
+    "price": 180.0,
+    "image_path": "/images/products/redbull.jpg"
+  },
+  {
+    "id": 125,
+    "category_id": 12,
+    "name": "Sıkma Portakal",
+    "price": 110.0,
+    "image_path": "/images/products/sikma-portakal.jpg"
+  },
+  {
+    "id": 126,
+    "category_id": 12,
+    "name": "Churchill",
+    "price": 60.0,
+    "image_path": "/images/products/churchill.jpg"
+  },
+  {
+    "id": 127,
+    "category_id": 12,
+    "name": "Sade Soda",
+    "price": 40.0,
+    "image_path": "/images/products/sade-soda.jpg"
+  },
+  {
+    "id": 128,
+    "category_id": 12,
+    "name": "Soda Limon",
+    "price": 40.0,
+    "image_path": "/images/products/soda-limon.jpg"
+  },
+  {
+    "id": 129,
+    "category_id": 12,
+    "name": "Su",
+    "price": 20.0,
+    "image_path": "/images/products/su.jpg"
+  },
+  {
+    "id": 130,
+    "category_id": 12,
+    "name": "Kola",
+    "price": 65.0,
+    "image_path": "/images/products/kola.jpg"
+  },
+  {
+    "id": 131,
+    "category_id": 12,
+    "name": "Fanta",
+    "price": 65.0,
+    "image_path": "/images/products/fanta.jpg"
+  },
+  {
+    "id": 132,
+    "category_id": 12,
+    "name": "Sprite",
+    "price": 65.0,
+    "image_path": "/images/products/sprite.jpg"
+  },
+  {
+    "id": 133,
+    "category_id": 12,
+    "name": "Meyveli Sodalar",
+    "price": 45.0,
+    "image_path": "/images/products/meyveli-sodalar.jpg"
+  },
+  {
+    "id": 134,
+    "category_id": 13,
+    "name": "Çay",
+    "price": 35.0,
+    "image_path": "/images/products/cay.jpg"
+  },
+  {
+    "id": 135,
+    "category_id": 13,
+    "name": "Fincan Çay",
+    "price": 45.0,
+    "image_path": "/images/products/fincan-cay.jpg"
+  },
+  {
+    "id": 136,
+    "category_id": 13,
+    "name": "Yeşil Çay",
+    "price": 80.0,
+    "image_path": "/images/products/yesil-cay.jpg"
+  },
+  {
+    "id": 137,
+    "category_id": 13,
+    "name": "Ihlamur",
+    "price": 80.0,
+    "image_path": "/images/products/ihlamur.jpg"
+  },
+  {
+    "id": 138,
+    "category_id": 13,
+    "name": "Nane Limon",
+    "price": 80.0,
+    "image_path": "/images/products/nane-limon.jpg"
+  },
+  {
+    "id": 139,
+    "category_id": 13,
+    "name": "Kuş Burnu",
+    "price": 80.0,
+    "image_path": "/images/products/kus-burnu.jpg"
+  },
+  {
+    "id": 140,
+    "category_id": 13,
+    "name": "Kış Çayı",
+    "price": 80.0,
+    "image_path": "/images/products/kis-cayi.jpg"
+  },
+  {
+    "id": 141,
+    "category_id": 13,
+    "name": "Aşk Çayı",
+    "price": 100.0,
+    "image_path": "/images/products/ask-cayi.jpg"
+  },
+  {
+    "id": 142,
+    "category_id": 13,
+    "name": "Ballı Süt",
+    "price": 100.0,
+    "image_path": "/images/products/balli-sut.jpg"
+  },
+  {
+    "id": 143,
+    "category_id": 13,
+    "name": "Melisa Çayı",
+    "price": 65.0,
+    "image_path": "/images/products/melisa-cayi.jpg"
+  },
+  {
+    "id": 144,
+    "category_id": 13,
+    "name": "Papatya Çayı",
+    "price": 80.0,
+    "image_path": "/images/products/papatya-cayi.jpg"
+  }
+]

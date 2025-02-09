@@ -1,0 +1,77 @@
+[
+  {
+    "id": 14,
+    "name": "Ana Yemek",
+    "image_path": "/images/categories/ana-yemek.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Salatalar",
+    "image_path": "/images/categories/salata.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Hamburger",
+    "image_path": "/images/categories/hamburger.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kahvaltı",
+    "image_path": "/images/categories/kahvalti.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pizzalar",
+    "image_path": "/images/categories/pizzalar.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kahve Çeşitleri",
+    "image_path": "/images/categories/kahve-cesitleri.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Milkshake Çeşitleri",
+    "image_path": "/images/categories/milkshake-cesitleri.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Smoothie",
+    "image_path": "/images/categories/smoothie.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Frozen",
+    "image_path": "/images/categories/frozen.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mojitolar",
+    "image_path": "/images/categories/mojitolar.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tatlılar",
+    "image_path": "/images/categories/tatlilar.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Nargile",
+    "image_path": "/images/categories/nargile.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Kokteyl",
+    "image_path": "/images/categories/kokteyl.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Soğuk İçecekler",
+    "image_path": "/images/categories/soguk-icecekler.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Sıcaklar",
+    "image_path": "/images/categories/sicaklar.jpg"
+  }
+]
