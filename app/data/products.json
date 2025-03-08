@@ -3,126 +3,126 @@
     "id": 1,
     "category_id": 14,
     "name": "Mexica Usulü Tavuk",
-    "price": 230.0,
+    "price": 250.0,
     "image_path": "/images/products/mexican-style-chicken.jpg"
   },
   {
     "id": 2,
     "category_id": 14,
     "name": "Köri Soslu Tavuk",
-    "price": 230.0,
+    "price": 250.0,
     "image_path": "/images/products/curry-sauce-chicken.jpg"
   },
   {
     "id": 3,
     "category_id": 14,
     "name": "Soya Soslu Tavuk",
-    "price": 230.0,
+    "price": 250.0,
     "image_path": "/images/products/soy-sauce-chicken.jpg"
   },
   {
     "id": 4,
     "category_id": 14,
     "name": "Tavuk Wrap",
-    "price": 200.0,
+    "price": 220.0,
     "image_path": "/images/products/chicken-wrap.jpg"
   },
   {
     "id": 5,
     "category_id": 14,
     "name": "Kombo Wrap",
-    "price": 200.0,
+    "price": 220.0,
     "image_path": "/images/products/combo-wrap.jpg"
   },
   {
     "id": 6,
     "category_id": 14,
     "name": "Penne Alfredo",
-    "price": 160.0,
+    "price": 180.0,
     "image_path": "/images/products/penne-alfredo.jpg"
   },
   {
     "id": 7,
     "category_id": 14,
     "name": "Fettucini Alfredo",
-    "price": 160.0,
+    "price": 180.0,
     "image_path": "/images/products/fettuccine-alfredo.jpg"
   },
   {
     "id": 8,
     "category_id": 14,
     "name": "Penne Arabiatta",
-    "price": 190.0,
+    "price": 210.0,
     "image_path": "/images/products/penne-arrabbiata.jpg"
   },
   {
     "id": 9,
     "category_id": 14,
     "name": "Spagetti Bolonez",
-    "price": 160.0,
+    "price": 180.0,
     "image_path": "/images/products/spaghetti-bolognese.jpg"
   },
   {
     "id": 10,
     "category_id": 14,
     "name": "Mantı",
-    "price": 170.0,
+    "price": 190.0,
     "image_path": "/images/products/manti.jpg"
   },
   {
     "id": 11,
     "category_id": 14,
     "name": "Et Wrap",
-    "price": 300.0,
+    "price": 320.0,
     "image_path": "/images/products/beef-wrap.jpg"
   },
   {
     "id": 12,
     "category_id": 14,
     "name": "Köfte Porsiyon",
-    "price": 350.0,
+    "price": 370.0,
     "image_path": "/images/products/kofte-portion.jpg"
   },
   {
     "id": 13,
     "category_id": 14,
     "name": "Mercimek Çorbası",
-    "price": 100.0,
+    "price": 120.0,
     "image_path": "/images/products/lentil-soup.jpg"
   },
   {
     "id": 14,
     "category_id": 14,
     "name": "Et Bonfile",
-    "price": 650.0,
+    "price": 670.0,
     "image_path": "/images/products/beef-tenderloin.jpg"
   },
   {
     "id": 15,
     "category_id": 14,
     "name": "Kuzu Lokumu",
-    "price": 650.0,
+    "price": 670.0,
     "image_path": "/images/products/lamb-lokum.jpg"
   },
   {
     "id": 16,
     "category_id": 14,
     "name": "Et Antrikot",
-    "price": 650.0,
+    "price": 670.0,
     "image_path": "/images/products/beef-ribeye.jpg"
   },
   {
     "id": 17,
     "category_id": 14,
     "name": "Kuzu Pirzola",
-    "price": 650.0,
+    "price": 670.0,
     "image_path": "/images/products/lamb-chops.jpg"
   },
   {
     "id": 18,
     "category_id": 14,
     "name": "Karışık Izgara",
-    "price": 950.0,
+    "price": 970.0,
     "image_path": "/images/products/mixed-grill.jpg"
   },
 
@@ -130,49 +130,49 @@
     "id": 19,
     "category_id": 15,
     "name": "Sezar Salata Tavuklu",
-    "price": 195.0,
+    "price": 215.0,
     "image_path": "/images/products/caesar-salad-chicken.jpg"
   },
   {
     "id": 20,
     "category_id": 15,
     "name": "Çoban Salata",
-    "price": 80.0,
+    "price": 100.0,
     "image_path": "/images/products/shepherd-salad.jpg"
   },
   {
     "id": 21,
     "category_id": 15,
     "name": "Mevsim Salata",
-    "price": 80.0,
+    "price": 100.0,
     "image_path": "/images/products/seasonal-salad.jpg"
   },
   {
     "id": 22,
     "category_id": 15,
     "name": "Ton Balıklı Salata",
-    "price": 110.0,
+    "price": 130.0,
     "image_path": "/images/products/tuna-salad.jpg"
   },
   {
     "id": 23,
     "category_id": 1,
     "name": "Hamburger",
-    "price": 190.0,
+    "price": 210.0,
     "image_path": "/images/products/hamburger.jpg"
   },
   {
     "id": 24,
     "category_id": 1,
     "name": "Chicken Hamburger",
-    "price": 170.0,
+    "price": 190.0,
     "image_path": "/images/products/chicken-hamburger.jpg"
   },
   {
     "id": 25,
     "category_id": 1,
     "name": "Double Burger",
-    "price": 310.0,
+    "price": 330.0,
     "image_path": "/images/products/hamburger.jpg"
   },
 
@@ -277,14 +277,14 @@
   {
     "id": 40,
     "category_id": 2,
-    "name": "Kavurmalı Kaşar Gözleme",
+    "name": "Kavurmalı Kaşarlı Gözleme",
     "price": 190.0,
     "image_path": "/images/products/kavurmali-kasar-gozleme.jpg"
   },
   {
     "id": 41,
     "category_id": 2,
-    "name": "Patates Gözleme",
+    "name": "Patatesli Gözleme",
     "price": 110.0,
     "image_path": "/images/products/patates-gozleme.jpg"
   },
@@ -298,7 +298,7 @@
   {
     "id": 43,
     "category_id": 2,
-    "name": "Sucuk Kaşar Gözleme",
+    "name": "Sucuklu Kaşarlı Gözleme",
     "price": 110.0,
     "image_path": "/images/products/kavurmali-kasar-gozleme.jpg"
   },
@@ -335,28 +335,28 @@
     "id": 48,
     "category_id": 3,
     "name": "Karışık Pizza",
-    "price": 210.0,
+    "price": 230.0,
     "image_path": "/images/products/karisik-pizza.jpg"
   },
   {
     "id": 49,
     "category_id": 3,
     "name": "Margarita Pizza",
-    "price": 180.0,
+    "price": 210.0,
     "image_path": "/images/products/margarita-pizza.jpg"
   },
   {
     "id": 50,
     "category_id": 3,
     "name": "Sebzeli Pizza",
-    "price": 190.0,
+    "price": 220.0,
     "image_path": "/images/products/sebzeli-pizza.jpg"
   },
   {
     "id": 51,
     "category_id": 3,
     "name": "Sucuklu Pizza",
-    "price": 200.0,
+    "price": 220.0,
     "image_path": "/images/products/sucuklu-pizza.jpg"
   },
   {
@@ -432,14 +432,14 @@
   {
     "id": 62,
     "category_id": 4,
-    "name": "Sade Wescafe",
+    "name": "Sade Nescafe",
     "price": 80.0,
     "image_path": "/images/products/sade-wescafe.jpg"
   },
   {
     "id": 63,
     "category_id": 4,
-    "name": "Ice Choklate Mocha",
+    "name": "Ice Chocolate Mocha",
     "price": 115.0,
     "image_path": "/images/products/ice-choklate-mocha.jpg"
   },
@@ -453,7 +453,7 @@
   {
     "id": 65,
     "category_id": 4,
-    "name": "Sütlü Wescafe",
+    "name": "Sütlü Nescafe",
     "price": 95.0,
     "image_path": "/images/products/sade-wescafe.jpg"
   },
@@ -510,7 +510,7 @@
   {
     "id": 73,
     "category_id": 5,
-    "name": "Choclate Milkshake",
+    "name": "Chocolate Milkshake",
     "price": 110.0,
     "image_path": "/images/products/choclate-milkshake.jpg"
   },
@@ -616,63 +616,63 @@
     "id": 88,
     "category_id": 9,
     "name": "Çerez Tabağı",
-    "price": 150.0,
+    "price": 200.0,
     "image_path": "/images/products/cerez-tabagi.jpg"
   },
   {
     "id": 89,
     "category_id": 9,
     "name": "Meyve Tabağı",
-    "price": 170.0,
+    "price": 200.0,
     "image_path": "/images/products/meyve-tabagi.jpg"
   },
   {
     "id": 90,
     "category_id": 9,
-    "name": "Föndü",
-    "price": 220.0,
+    "name": "Fondü",
+    "price": 240.0,
     "image_path": "/images/products/fondu.jpg"
   },
   {
     "id": 91,
     "category_id": 9,
     "name": "Waffle",
-    "price": 200.0,
+    "price": 220.0,
     "image_path": "/images/products/waffle.jpg"
   },
   {
     "id": 92,
     "category_id": 9,
     "name": "Devil's",
-    "price": 180.0,
+    "price": 200.0,
     "image_path": "/images/products/devils.jpg"
   },
   {
     "id": 93,
     "category_id": 9,
     "name": "Karaorman Pasta",
-    "price": 180.0,
+    "price": 200.0,
     "image_path": "/images/products/karaorman-pasta.jpg"
   },
   {
     "id": 94,
     "category_id": 9,
     "name": "Mozaik Pasta",
-    "price": 180.0,
+    "price": 200.0,
     "image_path": "/images/products/mozaik-pasta.jpg"
   },
   {
     "id": 95,
     "category_id": 9,
     "name": "Suffle",
-    "price": 220.0,
+    "price": 240.0,
     "image_path": "/images/products/suffle.jpg"
   },
   {
     "id": 96,
     "category_id": 9,
     "name": "Beyaz Çikolatalı Pasta",
-    "price": 180.0,
+    "price": 200.0,
     "image_path": "/images/products/beyaz-cikolatali-pasta.jpg"
   },
   {
@@ -938,77 +938,77 @@
     "id": 134,
     "category_id": 13,
     "name": "Çay",
-    "price": 35.0,
+    "price": 25.0,
     "image_path": "/images/products/cay.jpg"
   },
   {
     "id": 135,
     "category_id": 13,
     "name": "Fincan Çay",
-    "price": 45.0,
+    "price": 35.0,
     "image_path": "/images/products/fincan-cay.jpg"
   },
   {
     "id": 136,
     "category_id": 13,
     "name": "Yeşil Çay",
-    "price": 80.0,
+    "price": 70.0,
     "image_path": "/images/products/yesil-cay.jpg"
   },
   {
     "id": 137,
     "category_id": 13,
     "name": "Ihlamur",
-    "price": 80.0,
+    "price": 70.0,
     "image_path": "/images/products/ihlamur.jpg"
   },
   {
     "id": 138,
     "category_id": 13,
     "name": "Nane Limon",
-    "price": 80.0,
+    "price": 70.0,
     "image_path": "/images/products/nane-limon.jpg"
   },
   {
     "id": 139,
     "category_id": 13,
     "name": "Kuş Burnu",
-    "price": 80.0,
+    "price": 70.0,
     "image_path": "/images/products/kus-burnu.jpg"
   },
   {
     "id": 140,
     "category_id": 13,
     "name": "Kış Çayı",
-    "price": 80.0,
+    "price": 70.0,
     "image_path": "/images/products/kis-cayi.jpg"
   },
   {
     "id": 141,
     "category_id": 13,
     "name": "Aşk Çayı",
-    "price": 100.0,
+    "price": 90.0,
     "image_path": "/images/products/ask-cayi.jpg"
   },
   {
     "id": 142,
     "category_id": 13,
     "name": "Ballı Süt",
-    "price": 100.0,
+    "price": 90.0,
     "image_path": "/images/products/balli-sut.jpg"
   },
   {
     "id": 143,
     "category_id": 13,
     "name": "Melisa Çayı",
-    "price": 65.0,
+    "price": 55.0,
     "image_path": "/images/products/melisa-cayi.jpg"
   },
   {
     "id": 144,
     "category_id": 13,
     "name": "Papatya Çayı",
-    "price": 80.0,
+    "price": 70.0,
     "image_path": "/images/products/papatya-cayi.jpg"
   }
 ]
