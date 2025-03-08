@@ -180,154 +180,154 @@
     "id": 26,
     "category_id": 2,
     "name": "Serpme Kahvaltı 2 Kişilik",
-    "price": 550.0,
+    "price": 570.0,
     "image_path": "/images/products/serpme-kahvalti-2-kisilik.jpg"
   },
   {
     "id": 27,
     "category_id": 2,
     "name": "Menemen",
-    "price": 160.0,
+    "price": 180.0,
     "image_path": "/images/products/menemen.jpg"
   },
   {
     "id": 28,
     "category_id": 2,
     "name": "Kahvaltı Tabağı",
-    "price": 220.0,
+    "price": 240.0,
     "image_path": "/images/products/kahvalti-tabagi.jpg"
   },
   {
     "id": 29,
     "category_id": 2,
     "name": "Karışık Menemen",
-    "price": 200.0,
+    "price": 220.0,
     "image_path": "/images/products/karisik-menemen.jpg"
   },
   {
     "id": 30,
     "category_id": 2,
     "name": "Kavurmalı Menemen",
-    "price": 200.0,
+    "price": 220.0,
     "image_path": "/images/products/kavurmali-menemen.jpg"
   },
   {
     "id": 31,
     "category_id": 2,
     "name": "Sucuklu Yumurta",
-    "price": 100.0,
+    "price": 120.0,
     "image_path": "/images/products/sucuklu-yumurta.jpg"
   },
   {
     "id": 32,
     "category_id": 2,
     "name": "Kavurmalı Yumurta",
-    "price": 160.0,
+    "price": 180.0,
     "image_path": "/images/products/kavurmali-yumurta.jpg"
   },
   {
     "id": 33,
     "category_id": 2,
     "name": "Sahanda Yumurta",
-    "price": 60.0,
+    "price": 80.0,
     "image_path": "/images/products/sahanda-yumurta.jpg"
   },
   {
     "id": 34,
     "category_id": 2,
     "name": "Omlet",
-    "price": 95.0,
+    "price": 115.0,
     "image_path": "/images/products/omlet.jpg"
   },
   {
     "id": 35,
     "category_id": 2,
     "name": "Sebzeli Omlet",
-    "price": 130.0,
+    "price": 150.0,
     "image_path": "/images/products/sebzeli-omlet.jpg"
   },
   {
     "id": 36,
     "category_id": 2,
     "name": "Kombo Tabağı",
-    "price": 150.0,
+    "price": 170.0,
     "image_path": "/images/products/kombo-tabagi.jpg"
   },
   {
     "id": 37,
     "category_id": 2,
     "name": "Parmak Patates",
-    "price": 95.0,
+    "price": 115.0,
     "image_path": "/images/products/parmak-patates.jpg"
   },
   {
     "id": 38,
     "category_id": 2,
     "name": "Elma Dilim Patates",
-    "price": 95.0,
+    "price": 115.0,
     "image_path": "/images/products/elma-dilim-patates.jpg"
   },
   {
     "id": 39,
     "category_id": 2,
     "name": "Sigara Böreği",
-    "price": 110.0,
+    "price": 130.0,
     "image_path": "/images/products/sigara-boregi.jpg"
   },
   {
     "id": 40,
     "category_id": 2,
     "name": "Kavurmalı Kaşarlı Gözleme",
-    "price": 190.0,
+    "price": 210.0,
     "image_path": "/images/products/kavurmali-kasar-gozleme.jpg"
   },
   {
     "id": 41,
     "category_id": 2,
     "name": "Patatesli Gözleme",
-    "price": 110.0,
+    "price": 130.0,
     "image_path": "/images/products/patates-gozleme.jpg"
   },
   {
     "id": 42,
     "category_id": 2,
     "name": "Kaşarlı Gözleme",
-    "price": 110.0,
+    "price": 130.0,
     "image_path": "/images/products/kasar-gozleme.jpg"
   },
   {
     "id": 43,
     "category_id": 2,
     "name": "Sucuklu Kaşarlı Gözleme",
-    "price": 110.0,
+    "price": 130.0,
     "image_path": "/images/products/kavurmali-kasar-gozleme.jpg"
   },
   {
     "id": 44,
     "category_id": 2,
     "name": "Karışık Tost",
-    "price": 110.0,
+    "price": 130.0,
     "image_path": "/images/products/karisik-tost.jpg"
   },
   {
     "id": 45,
     "category_id": 2,
     "name": "Kaşarlı Tost",
-    "price": 110.0,
+    "price": 130.0,
     "image_path": "/images/products/kasar-tost.jpg"
   },
   {
     "id": 46,
     "category_id": 2,
     "name": "Sucuklu Tost",
-    "price": 105.0,
+    "price": 125.0,
     "image_path": "/images/products/sucuklu-tost.jpg"
   },
   {
     "id": 47,
     "category_id": 2,
     "name": "Kavurmalı Tost",
-    "price": 210.0,
+    "price": 230.0,
     "image_path": "/images/products/kavurmali-tost.jpg"
   },
 
